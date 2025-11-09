@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1002159924, guid: 56d3131a958edbf48aafac8683443f09, type: 3}
+  m_Sprite: {fileID: -1726124365, guid: 56d3131a958edbf48aafac8683443f09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -215,7 +215,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 4734340807251161186}
   _animator: {fileID: 3221054664996919673}
-  cam: {fileID: 0}
   speed: 3
   gravity: -9.18
   jumpHeight: 3
