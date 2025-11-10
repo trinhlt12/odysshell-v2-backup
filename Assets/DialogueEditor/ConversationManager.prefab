@@ -74,8 +74,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -323,9 +323,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ScrollText: 1
   ScrollSpeed: 1
-  BackgroundImage: {fileID: 21300000, guid: f606485dfd4014a448b03e56ec4d41fd, type: 3}
+  BackgroundImage: {fileID: 21300000, guid: 383cadd5ca025e04cb905487fda0d7a0, type: 3}
   BackgroundImageSliced: 1
-  OptionImage: {fileID: 21300000, guid: 383cadd5ca025e04cb905487fda0d7a0, type: 3}
+  OptionImage: {fileID: 21300000, guid: f81879bfaaeb1da46a115d8017fc5074, type: 3}
   OptionImageSliced: 1
   AllowMouseInteraction: 1
   DialoguePanel: {fileID: 3900108755395677323}
@@ -566,14 +566,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.5254902}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f606485dfd4014a448b03e56ec4d41fd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9e2ea1cb70ae8cf41a3db001d7b7cebb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
